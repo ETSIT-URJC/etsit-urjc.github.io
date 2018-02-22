@@ -6,7 +6,8 @@
 - Abierto a exalumnos
 
 
-![urjc-logo](URJ_simbolo_POS.jpg)
 
-## ETSIT
+<img src="URJ_simbolo_POS.jpg" alt="logo-urjc" style="width: 200px;"/>
+
+### ETSIT
 
